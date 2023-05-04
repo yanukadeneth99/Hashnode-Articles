@@ -1,4 +1,12 @@
-# How to earn by predicting the winning teams of World Cup Football
+---
+title: "How to earn by predicting the winning teams of World Cup Football"
+datePublished: Mon Nov 21 2022 19:56:05 GMT+0000 (Coordinated Universal Time)
+cuid: clar7keqr000808l48mix8fwy
+slug: about-wc-nft-fantasy
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1668956548258/7qWSL44Md.jpg
+tags: blockchain, games, web3, football
+
+---
 
 # 😎 Welcome
 

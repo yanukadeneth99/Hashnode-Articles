@@ -1,4 +1,12 @@
-# Build a House Deed Smart Contract using Clarity
+---
+title: "Build a House Deed Smart Contract using Clarity"
+datePublished: Tue Nov 15 2022 19:11:36 GMT+0000 (Coordinated Universal Time)
+cuid: clailc2wn000208mw7b0ug7ql
+slug: build-a-house-deed-smart-contract-using-clarity
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1668539239334/hrWzO_OBF.png
+tags: software-development, developer, blockchain, web3, clarity
+
+---
 
 # 😎 Greetings Folks!
 

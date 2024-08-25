@@ -1,5 +1,7 @@
 ---
 title: "How to Recover Mentally"
+seoTitle: "Mental Recovery Tips"
+seoDescription: "Address basic needs, build safe relationships, soothe your inner child, integrate trauma, and challenge fear-based beliefs"
 datePublished: Sun May 07 2023 03:53:24 GMT+0000 (Coordinated Universal Time)
 cuid: clhcvpn9j000b08mifh4n1qgu
 slug: how-to-recover-mentally

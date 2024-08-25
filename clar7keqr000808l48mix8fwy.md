@@ -1,5 +1,7 @@
 ---
 title: "How to earn by predicting the winning teams of World Cup Football"
+seoTitle: "Earn Money Predicting World Cup Winners"
+seoDescription: "Learn how to earn by predicting World Cup Football winning teams with WC NFT Fantasy. Follow our guide to get started"
 datePublished: Mon Nov 21 2022 19:56:05 GMT+0000 (Coordinated Universal Time)
 cuid: clar7keqr000808l48mix8fwy
 slug: about-wc-nft-fantasy

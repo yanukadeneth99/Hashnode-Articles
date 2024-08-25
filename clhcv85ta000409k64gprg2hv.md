@@ -1,5 +1,7 @@
 ---
 title: "ADHD Tips"
+seoTitle: "Effective ADHD Management Strategies"
+seoDescription: "Create routines, structure, use calendars, handle tasks promptly, stay focused, prioritize, manage distractions, simplify choices"
 datePublished: Sun May 07 2023 03:39:48 GMT+0000 (Coordinated Universal Time)
 cuid: clhcv85ta000409k64gprg2hv
 slug: adhd-tips

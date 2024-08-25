@@ -1,5 +1,7 @@
 ---
 title: "Build a House Deed Smart Contract using Clarity"
+seoTitle: "Smart Contract for House Deed with Clarity"
+seoDescription: "Learn to build a House Deed Smart Contract using Clarity. Step-by-step guide for developers to embark on smart contract development"
 datePublished: Tue Nov 15 2022 19:11:36 GMT+0000 (Coordinated Universal Time)
 cuid: clailc2wn000208mw7b0ug7ql
 slug: build-a-house-deed-smart-contract-using-clarity
